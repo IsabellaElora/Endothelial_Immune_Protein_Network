@@ -114,9 +114,9 @@ STRING associations do not necessarily represent direct physical protein interac
 
 Repository Contents
 
-figures/Endothelial_Immune_STRING_Network.png network visualisation and Gene Ontology enrichment plot
+![Endothelial–immune protein network](figures/Endothelial_Immune_STRING_Network.png)network visualisation and Gene Ontology enrichment plot
 
-figures/GO_Biological_Process_Enrichment.png exported STRING interaction and enrichment results
+![GO Biological Process enrichment](figures/GO_Biological_Process_Enrichment.png) STRING interaction and enrichment results
 
 Relevance to Future Research
 
